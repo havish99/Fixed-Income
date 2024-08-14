@@ -1,1 +1,3 @@
-Sample notebooks to understand basics workings of pricing fixed income securities. Bulk of the content is to bootstrap SOFR yield curve from swaps, discrete tree models like BDT, Hull White and a pricing notebook for a discrete rate MBS
+- Sample notebooks to understand basics workings of pricing fixed income securities.
+- Bulk of the content is to bootstrap SOFR yield curve from swaps, discrete tree models like BDT, Hull White
+- Last notebook prices a toy MBS with a discrete time Hull white model
