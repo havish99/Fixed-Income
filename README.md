@@ -1,3 +1,3 @@
 - Sample notebooks to understand basics workings of pricing fixed income, asset backed securities
 - Few toy example codes and illustrations of duration
-- Last notebook deals with pricing a REMIC bond which is a parallel pass through ABS
+- SOFR_REMIC deals with pricing a REMIC bond which is a parallel pass through ABS
