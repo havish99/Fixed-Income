@@ -1,3 +1,3 @@
-- Sample notebooks to understand basics workings of pricing fixed income securities.
-- Bulk of the content is to bootstrap SOFR yield curve from swaps, discrete tree models like BDT, Hull White
-- Last notebook prices a toy MBS with a discrete time Hull white model
+- Sample notebooks to understand basics workings of pricing fixed income, asset backed securities
+- Few toy example codes and illustrations of duration
+- Last notebook deals with pricing a REMIC bond which is a parallel pass through ABS
